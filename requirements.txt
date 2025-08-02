@@ -1,0 +1,6 @@
+numpy
+opencv_python
+yoloface==0.0.4
+mtcnn
+lz4
+albumentations
