@@ -1,1 +1,1 @@
-# Face_Recognition-in-NIR_Images
+# Face_Recognition-using-NIR_Images
